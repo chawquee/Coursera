@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+class navTitles {
+  text-decoration-color:#495E57;
+}
+.nav-bar { 
+
+  grid-area: nav; 
+
+  background-color: lightblue; 
+
+} 

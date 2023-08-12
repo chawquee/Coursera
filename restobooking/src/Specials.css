@@ -1,0 +1,17 @@
+/* ... Other styles ... */
+
+.specials-title {
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  
+  .online-menu-button {
+    background-color: #ff5733;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
